@@ -1,14 +1,11 @@
 ## General
 **Status:** READY/WIP/HOLD
 **Ticket:** ABCD-0001
-**Migrations:** Yes
 
 ## Description
-A few sentences describing the overall goals of the pull request's commits.
+[Short description outlining the changes made, and the purpose of the change]
 
 ## Related PRs
-List related PRs against other branches:
-
 branch | PR
 ------ | ------
 other_pr_production | [link]()
@@ -16,4 +13,6 @@ other_pr_master | [link]()
 
 ## Todos
 - [ ] Tests
+- [ ] Migrations
 - [ ] Documentation
+- [ ] Translations
